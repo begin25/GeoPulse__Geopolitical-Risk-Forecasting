@@ -1,7 +1,7 @@
 # 🌍 Global Conflict Escalation Predictor
 
 **A Dual-Engine Machine Learning Radar for Forecasting Geopolitical Volatility**
-
+<img src="assets/dashboard_demo.png" width="800" alt="Dashboard Demo">
 The Global Conflict Escalation Predictor is an open-source Early Warning System (EWS). It transforms the chaotic, real-time stream of global news into a computable, structured machine learning pipeline to predict whether a specific geopolitical corridor (e.g., Russia-Ukraine, China-Taiwan) will experience a significant escalation in conflict over the next 7 days.
 
 ---
@@ -68,6 +68,8 @@ The core prediction engine is an **XGBoost Classifier**. XGBoost is a powerful g
 ### SHAP (SHapley Additive exPlanations)
 
 To ensure the model is not a "black box," the dashboard integrates **SHAP values**. SHAP breaks down a prediction to show exactly which feature (e.g., a drop in 7-day tone, or a spike in mentions) pushed the risk higher or lower.
+<img src="assets/shap_explanation.png" width="800" alt="SHAP Explanation">
+
 
 ---
 
