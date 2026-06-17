@@ -171,9 +171,16 @@ streamlit run app/04_dashboard.py
 
 ---
 
-## 👨‍💻 Author
-Vaibhav Jain
-B.Tech, Production & Industrial Engineering
-Indian Institute of Technology Delhi
+## Author
 
-Interested in the intersection of mathematical optimization, machine learning, and complex real‑world systems.
+**Vaibhav Jain**  
+
+B.Tech, Production & Industrial Engineering  
+Indian Institute of Technology, Delhi  
+
+Interests:
+
+* Computer Vision
+* Autonomous Systems
+* Machine Learning
+* Mathematical Optimization
