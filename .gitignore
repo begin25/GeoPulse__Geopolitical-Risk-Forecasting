@@ -1,0 +1,15 @@
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Python/Cache
+__pycache__/
+*.pyc
+
+# Streamlit/IDE
+.streamlit/
+.DS_Store
+.vscode/
+.idea/
