@@ -1,7 +1,7 @@
 # 🌍 Global Conflict Escalation Predictor
 
 **A Dual-Engine Machine Learning Radar for Forecasting Geopolitical Volatility**
-<img src="assets/dashboard_demo.png" width="800" alt="Dashboard Demo">
+<img src="assets/dashboard_demo.png" alt="Dashboard Demo">
 The Global Conflict Escalation Predictor is an open-source Early Warning System (EWS). It transforms the chaotic, real-time stream of global news into a computable, structured machine learning pipeline to predict whether a specific geopolitical corridor (e.g., Russia-Ukraine, China-Taiwan) will experience a significant escalation in conflict over the next 7 days.
 
 ---
